@@ -1,0 +1,10 @@
+.cardStyle{
+    margin: auto;
+    border: 3px solid pink;
+    width: 20rem;
+    margin-Top: 2rem;
+    padding: 1rem;
+    box-Shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    text-Align:center;
+  }
+  
